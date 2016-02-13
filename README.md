@@ -4,7 +4,8 @@
 [![Gem](https://img.shields.io/gem/dtv/shioruby.svg)](https://rubygems.org/gems/shioruby)
 [![Gemnasium](https://gemnasium.com/Narazaka/shioruby.svg)](https://gemnasium.com/Narazaka/shioruby)
 [![Inch CI](http://inch-ci.org/github/Narazaka/shioruby.svg)](http://inch-ci.org/github/Narazaka/shioruby)
-[![Build Status](https://travis-ci.org/Narazaka/shioruby.svg)](https://travis-ci.org/Narazaka/shioruby)
+[![Travis Build Status](https://travis-ci.org/Narazaka/shioruby.svg)](https://travis-ci.org/Narazaka/shioruby)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Narazaka/shioruby?svg=true)](https://ci.appveyor.com/project/Narazaka/shioruby)
 [![codecov.io](https://codecov.io/github/Narazaka/shioruby/coverage.svg?branch=master)](https://codecov.io/github/Narazaka/shioruby?branch=master)
 [![Code Climate](https://codeclimate.com/github/Narazaka/shioruby/badges/gpa.svg)](https://codeclimate.com/github/Narazaka/shioruby)
 
