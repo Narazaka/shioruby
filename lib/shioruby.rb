@@ -47,7 +47,7 @@ module Shioruby
       response.version
       lines = ["SHIORI/#{response.version} #{response.code} #{message}"]
       response.each_pair.reject {|key, _| ['code', 'message', 'version', :code, :message, :version].include?(key)}.each do |key, value|
-        lines << "#{key}: #{value}"
+        lines << "#{key}: #{value.gsub(/[\r\n]/, '')}"
       end
       lines.join("\n") + "\n\n"
     end
