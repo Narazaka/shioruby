@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - stable
+  - 2.6
 os:
   - linux
   - osx
