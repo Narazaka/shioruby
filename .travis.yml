@@ -5,5 +5,5 @@ os:
   - linux
   - osx
 before_install:
-  - gem install bundler --no-rdoc --no-ri
+  - gem install bundler
 script: bundle exec rake spec
