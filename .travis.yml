@@ -4,4 +4,6 @@ rvm:
 os:
   - linux
   - osx
+before_install:
+  - gem install bundler --no-rdoc --no-ri
 script: bundle exec rake spec
